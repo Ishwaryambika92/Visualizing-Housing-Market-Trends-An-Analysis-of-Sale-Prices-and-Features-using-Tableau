@@ -1,5 +1,3 @@
-# Visualizing-Housing-Market-Trends-An-Analysis-of-Sale-Prices-and-Features-using-Tableau
-
 # 🏠 Housing Market Trends: An Analysis of Sale Prices and Features using Tableau
 
 An interactive Tableau dashboard project that analyzes housing market trends to uncover insights into property prices, house features, and renovation impacts.
